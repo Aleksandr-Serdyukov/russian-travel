@@ -1,0 +1,11 @@
+.header__lang-link {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 3px;
+  }
+  
+  @media (max-width: 425px) {
+    .header__lang-link {
+      align-items: center;
+    }
+  }

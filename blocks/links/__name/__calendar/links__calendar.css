@@ -1,0 +1,14 @@
+.links__calendar {
+    margin: 0;
+    padding: 0;
+    margin-right: 18px;
+    width: 86px;
+    height: 18px;
+    text-decoration: none;
+    color:#fff;
+  }
+  
+  .links__calendar:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }

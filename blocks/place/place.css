@@ -1,0 +1,26 @@
+.place {
+    display: grid;
+    max-width: 984px;
+    grid-template-areas:
+    "title website"
+    "img paragraph";
+  }
+  
+  @media (max-width: 768px) {
+    .place {
+      max-width: 720px;
+      margin-bottom: 58px;
+    }
+  }
+  
+  @media (max-width: 550px) {
+    .place {
+      grid-template-areas:
+      "title"
+      "website"
+      "img"
+      "paragraph";
+      margin-bottom: 35px;
+      width: 299px;
+    }
+  }

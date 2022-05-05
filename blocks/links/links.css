@@ -1,0 +1,15 @@
+.links {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+  }
+  
+  @media (max-width: 550px) {
+    .links {
+      flex-direction: column;
+      justify-content: space-between;
+      margin-bottom: 48px;
+      height: 248px;
+    }
+  }

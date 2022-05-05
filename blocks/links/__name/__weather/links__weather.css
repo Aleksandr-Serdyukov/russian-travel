@@ -1,0 +1,14 @@
+.links__weather {
+    margin: 0;
+    padding: 0;
+    margin-right: 18px;
+    width: 57px;
+    height: 18px;
+    text-decoration: none;
+    color:#fff;
+  }
+  
+  .links__weather:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
