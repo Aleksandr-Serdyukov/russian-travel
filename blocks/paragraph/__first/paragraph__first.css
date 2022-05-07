@@ -1,9 +1,9 @@
-.paragraph__number-one {
+.paragraph__first {
     margin-bottom: 27px;
   }
-  
+
   @media (max-width: 1024px) {
-    .paragraph__number-one {
+    .paragraph__first {
       margin-bottom: 24px;
     }
   }

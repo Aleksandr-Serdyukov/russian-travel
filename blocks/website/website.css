@@ -1,26 +1,26 @@
-.place__website {
+.website {
     grid-area: website;
     margin-left: 40px;
     margin-bottom: 11px;
     max-height: 47px;
     align-self: end;
   }
-  
+
   @media (max-width: 1024px) {
-    .place__website {
+    .website {
       margin-left: 12px;
     }
   }
-  
+
   @media (max-width: 768px) {
-    .place__website {
+    .website {
       margin: 0;
       margin-left: 28px;
     }
   }
-  
+
   @media (max-width: 425px) {
-    .place__website {
+    .website {
       margin-left: 14px;
       width: 259px;
       margin-top: 8px;

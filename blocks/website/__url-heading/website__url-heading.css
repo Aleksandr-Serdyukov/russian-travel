@@ -1,4 +1,4 @@
-.place__url-heading {
+.website__url-heading {
     max-width: 456px;
     height: 12px;
     margin-bottom: 12px;
@@ -8,9 +8,9 @@
     color: #aaa;
     font-weight: 400;
   }
-  
+
   @media (max-width: 768px) {
-    .place__url-heading {
+    .website__url-heading {
       margin-bottom: 13px;
       margin-top: 0;
     }
