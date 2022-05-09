@@ -1,14 +1,13 @@
-
 .header {
     display: flex;
     justify-content: space-between;
     margin: 28px 48px 0 48px;
     max-width: calc(100% - 96px);
-    min-height: 52px;
   }
 
   @media (max-width: 768px) {
     .header {
+      max-width: calc(100% - 48px);
       margin-left: 24px;
       margin-right: 24px;
     }
@@ -16,6 +15,7 @@
 
   @media (max-width: 425px) {
     .header {
+      max-width: calc(100% - 32px);
       margin: 16px 16px 0;
     }
   }

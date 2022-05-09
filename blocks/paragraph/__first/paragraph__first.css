@@ -1,9 +1,0 @@
-.paragraph__first {
-    margin-bottom: 27px;
-  }
-
-  @media (max-width: 1024px) {
-    .paragraph__first {
-      margin-bottom: 24px;
-    }
-  }

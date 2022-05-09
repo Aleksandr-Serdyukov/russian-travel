@@ -1,7 +1,11 @@
 .links__name {
     font-weight: 400;
   }
-  
+
+  .links__name:last-child {
+    margin-right: 0px;
+  }
+
   @media (max-width: 425px) {
     .links__name {
       font-size: 24px;
