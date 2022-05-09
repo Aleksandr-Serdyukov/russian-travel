@@ -27,9 +27,6 @@
 
 @media (max-width: 425px) {
   .place__paragraph {
-
-    margin: 13px 14px 0
-
-
+    margin: 13px 14px 0;
   }
 }
