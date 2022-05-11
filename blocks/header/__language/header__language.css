@@ -4,20 +4,16 @@
   line-height: 1.17;
   font-weight: normal;
   color: #fff;
+  text-decoration: none;
 }
 
 .header__language:last-child {
   margin-right: 0px;
-  text-decoration: none;
 }
 
 .header__language:hover {
   opacity: 0.8;
   cursor: pointer;
-}
-
-.header__language:active {
-  text-decoration-line: underline;
 }
 
 @media (max-width: 425px) {

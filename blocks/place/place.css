@@ -20,6 +20,7 @@
       "website"
       "img"
       "paragraph";
-      margin: 64px auto 35px;
+      width: 100%;
+      margin: 0 auto 50px;
     }
   }
